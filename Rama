@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+    <head>
+        <title>HTML List</title>
+    </head>
+
+    <body>
+        <h3>To do list today:</h3>
+        <ol type="i">
+            <li>Bangun pagi</li>
+            <li>Shalat</li>
+            <li>Olahraga</li>
+            <li>Sarapan</li>
+            <li>Belajar</li>
+            <li>Tidur</li>
+        </ol>
+        <hr>
+        <h3>Saat sarapan, saya akan makan: </h3>
+        <ul type="circle">
+            <li>Nasi</li>
+            <li>Sayur</li>
+            <li>Telur</li>
+            <li>Tempe</li>
+            <li>Tahu</li>
+        </ul>
+        <hr>
+        <h3>Pemrograman Web menggunakan bahasa-bahasa berikut:</h3>
+        <dl>
+            <dt><b>HTML</b></dt>
+            <dd>Hyperlink Text Markup Languange atau HTML adalah bahasa markup yang digunakan untuk membuat struktur halaman website. 
+
+                HTML terdiri dari kombinasi teks dan simbol yang disimpan dalam sebuah file. Dalam membuat file HTML, terdapat standar atau format khusus yang harus diikuti. Format tersebut telah tertuang dalam standar kode internasional atau ASCII (American Standard Code for Information Interchange). </dd>
+            <dt><b>CSS</b></dt>
+            <dd>CSS adalah bahasa Cascading Style Sheet dan biasanya digunakan untuk mengatur tampilan elemen yang tertulis dalam bahasa markup, seperti HTML. CSS berfungsi untuk memisahkan konten dari tampilan visualnya di situs.</dd>
+            <dt><b>PHP</b></dt>
+            <dd>Hypertext Preprocessor, yaitu bahasa pemrograman yang sebenarnya mirip dengan JavaScript dan Python. Perbedaannya adalah, PHP sering kali digunakan untuk komunikasi sisi server, sedangkan JavaScript bisa digunakan untuk frontend dan backend. Sementara itu, Python hanya untuk sisi server (backend).</dd>
+            <dt><b>JS</b></dt>
+            <dd>JavaScript adalah bahasa pemrograman yang digunakan dalam pengembangan website agar lebih dinamis dan interaktif. Kalau sebelumnya kamu hanya mengenal HTML dan CSS, nah sekarang kamu jadi tahu bahwa JavaScript dapat meningkatkan fungsionalitas pada halaman web. Bahkan dengan JavaScript ini kamu bisa membuat aplikasi, tools, atau bahkan game pada web.</dd>
+            <dt><b>SQL</b></dt>
+            <dd>Structure Query Languange adalah bahasa pemrograman yang digunakan dalam mengakses, mengubah, dan memanipulasi data yang berbasis relasional.
+
+                Tentu saja bahasa komputer dalam data basis relasional ini berdasarkan standar yang dikeluarkan oleh American National Standard Institute (ANSI). Standardisasi SQL sudah ada sejak tahun 1986 dan memang diinisiasi oleh ANSI.</dd>
+        </dl>
+    </body>
+</html>
